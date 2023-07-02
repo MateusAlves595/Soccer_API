@@ -1,9 +1,11 @@
 const times = [
     {
-        "Campeonato Brasileiro": [
+        "campeonato": "Campeonato Brasileiro",
+        "liga": [
             {
+                "nome_liga": "Brasileirão",
                 "logo": "https://i.pinimg.com/564x/34/63/3b/34633b156b6f6d3789ae19334b38ee04.jpg",
-                "Brasileirao Serie A": [
+                "clubes": [
                     {
                         "id": 1,
                         "nome": "São Paulo",
@@ -108,10 +110,12 @@ const times = [
             }
         ],
 
-        "Campeonato Inglês": [
+        "campeonato": "Campeonato Inglês",
+        "liga": [
             {
+                "nome_liga": "Premier League",
                 "logo": "https://i.pinimg.com/564x/48/9a/38/489a389280d018387095e3be5cfe3ee2.jpg",
-                "Premier League": [
+                "clubes": [
                     {
                         "id": 21,
                         "nome": "Arsenal",
@@ -216,10 +220,12 @@ const times = [
             }
         ],
 
-        "Campeonato Italiano": [
+        "campeonato": "Campeonato Italiano",
+        "liga": [
             {
+                "nome_liga": "Série A",
                 "logo": "https://i.pinimg.com/564x/42/50/ac/4250ac81a93e55b8f7f6308fa502a3bf.jpg",
-                "Serie A": [
+                "clubes": [
                     {
                         "id": 41,
                         "nome": "Milan",
@@ -324,10 +330,12 @@ const times = [
             }
         ],
 
-        "Campeonato Espanhol": [
+        "campeonato": "Campeonato Espanhol",
+        "liga": [
             {
+                "nome_liga": "LaLiga",
                 "logo": "https://i.pinimg.com/564x/3f/4f/5d/3f4f5d3d95953879f6158e1e6d288713.jpg",
-                "LaLiga": [
+                "clubes": [
                     {
                         "id": 61,
                         "nome": "Alavés",
@@ -432,10 +440,12 @@ const times = [
             }
         ],
 
-        "Campeonato Alemao": [
+        "campeonato": "Campeonato Alemão",
+        "liga": [
             {
+                "nome_liga": "Bundesliga",
                 "logo": "https://i.pinimg.com/564x/a3/fe/a8/a3fea8c9ec3387e398698527b535e236.jpg",
-                "Bundesliga": [
+                "clubes": [
                     {
                         "id": 81,
                         "nome": "FC Heidenheim",
@@ -530,10 +540,12 @@ const times = [
             }
         ],
 
-        "Campeonato Portugues": [
+        "campeonato": "Campeonato Portugues",
+        "liga": [
             {
+                "nome_liga": "Liga NOS",
                 "logo": "https://i.pinimg.com/564x/cb/4f/e8/cb4fe87cba2167d2b6e64fc9721bd8d2.jpg",
-                "Liga NOS": [
+                "clubes": [
                     {
                         "id": 99,
                         "nome": "Arouca",

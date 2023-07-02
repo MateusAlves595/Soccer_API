@@ -1,0 +1,23 @@
+{
+  "name": "api-futebol",
+  "version": "1.0.0",
+  "description": "Api que contem informações de times de futebol do campeonato brasileiro",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusAlves595/API-Futebol.git"
+  },
+  "author": "Mateus Alves da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateusAlves595/API-Futebol/issues"
+  },
+  "homepage": "https://github.com/MateusAlves595/API-Futebol#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}

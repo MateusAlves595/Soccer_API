@@ -128,7 +128,7 @@ const times = [
                     },
                     {
                         "id": 23,
-                        "nome": "ABC Bournemouth",
+                        "nome": "AFC Bournemouth",
                         "escudo": "https://i.pinimg.com/564x/11/f4/44/11f4443b24ae8538f92cdd72ba8379a6.jpg"
                     },
                     {
